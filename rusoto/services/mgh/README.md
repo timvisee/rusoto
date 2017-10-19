@@ -1,6 +1,6 @@
 
-# Rusoto GreenGrass
-Rust SDK for AWS Greengrass
+# Rusoto MigrationHub
+Rust SDK for AWS Migration Hub
 
 You may be looking for:
 
@@ -19,11 +19,11 @@ On Linux, OpenSSL is required.
 
 ## Installation
 
-To use `rusoto_greengrass` in your application, add it as a dependency in your `Cargo.toml`:
+To use `rusoto_mgh` in your application, add it as a dependency in your `Cargo.toml`:
 
 ```toml
 [dependencies]
-rusoto_greengrass = "0.28.0"
+rusoto_mgh = "0.28.0"
 ```
 
 ## Contributing
